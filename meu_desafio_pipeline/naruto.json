@@ -1,0 +1,51 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "nome": "Naruto Uzumaki",
+            "idade": 13,
+            "caldeia": "Konohagakure",
+            "sensei": [
+                "Kakashi",
+                "Jiraya",
+                "Iruka"
+            ],
+            "rank": "Genin"
+        },
+        {
+            "id": 2,
+            "nome": "Sasuke",
+            "idade": 13,
+            "aldeia": "Konohagakure",
+            "sensei": [
+                "Kakashi",
+                "Orochimaru"
+            ],
+            "rank": "Genin"
+        },
+        {
+            "id": 3,
+            "nome": "Shikamaru Nara",
+            "idade": 13,
+            "aldeia": "Konohagakure",
+            "sensei": "Asuma Sarutobi",
+            "rank": "genin"
+        },
+        {
+            "id": 4,
+            "nome": "Sakura Haruno",
+            "idade": 13,
+            "aldeia": "konohagakure",
+            "sensei": "Kakashi Hatake",
+            "rank": "Lixo"
+        },
+        {
+            "id": 5,
+            "nome": "Kakashi Hatake",
+            "idade": "27",
+            "aldeia": "konohagakure",
+            "sensei": "Minato Namikaze",
+            "rank": "Jonin"
+        }
+    ]
+}
